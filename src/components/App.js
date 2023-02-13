@@ -4,7 +4,7 @@ import Welcome from './Welcome';
 
 function App(){
   return (
-    <Welcome name="Vighnesh"></Welcome>;
+    <Welcome name="Vighnesh"></Welcome>
   )
 }
 
